@@ -24,7 +24,7 @@ int main() {
     };
     int duracionCitas[3] = {60, 45, 50};
 
-    solucion(informacionDientes,informacionCitas,duracionCitas,4,8);
+    solucion(informacionDientes,informacionCitas,duracionCitas,3,8);
 
     return 0;
 }
